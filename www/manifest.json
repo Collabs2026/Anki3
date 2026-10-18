@@ -1,0 +1,18 @@
+{
+  "name": "AnkiFlow 智能间隔闪卡",
+  "short_name": "AnkiFlow",
+  "description": "基于 SM-2 记忆算法的移动端智能闪卡 App（支持牌组分类、挖空填空、滑动复习与卡片预览）",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%234f46e5'/><text x='50%' y='58%' dominant-baseline='middle' text-anchor='middle' font-size='55' font-family='sans-serif' font-weight='bold' fill='white'>A</text></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
